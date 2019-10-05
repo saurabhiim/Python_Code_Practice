@@ -53,6 +53,7 @@ dat[12:23]
 dat.columns
 #Specific Column 
 dat.x1
+dat['x2']
 
 #OR 
 
